@@ -1,0 +1,26 @@
+{
+  "name": "webtechproject4",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./src/bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "react-bootstrap": "^2.1.0",
+    "react-icons": "^4.3.1",
+    "react-router-dom": "^5.2.0",
+    "react-table": "^7.7.0",
+    "sequelize": "^6.12.0-beta.3",
+    "sqlite3": "^5.0.2",
+    "styled-components": "^5.2.0",
+    "yarn": "^1.22.17"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  }
+}
